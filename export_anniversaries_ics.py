@@ -7,9 +7,9 @@ ics_content = [
     "VERSION:2.0",
     "PRODID:-//Home Assistant//Anniversary Calendar Export//EN",
     "METHOD:PUBLISH"
-    "X-WR-CALNAME:HA Verjaardagen",
+    "X-WR-CALNAME:HA Anniversaries",
     "NAME:HA Verjaardagen",
-    "REFRESH-INTERVAL;VALUE=DURATION:P12H",
+    "REFRESH-INTERVAL;VALUE=DURATION:P4H",
     "CALSCALE:GREGORIAN",
     "BEGIN:VTIMEZONE",
     "TZID:Europe/Brussels",
